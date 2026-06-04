@@ -117,7 +117,12 @@ All source data is hosted publicly on **Google Cloud Storage**.
 | `mart_validation_queries.sql` | Data quality checks across all four mart schemas |
  
 ---
+
+ ## Schema Diagram
  
+<img width="641" height="475" alt="Tables and relation" src="https://github.com/user-attachments/assets/36f17810-6f09-4708-8d5e-86abe1278438" />
+
+
 ## Key Numbers
  
 - **Job postings:** hundreds of thousands of real listings
