@@ -85,5 +85,21 @@ Resolves the many-to-many relationship between job postings and skills. One job 
  
 ## Schema Diagram
  
-![Warehouse Tables and Relations](<img width="641" height="475" alt="Tables and relation" src="https://github.com/user-attachments/assets/312fd24f-95be-4a9e-896f-c6b7fcb3791a" />
-)
+<img width="641" height="475" alt="Tables and relation" src="https://github.com/user-attachments/assets/312fd24f-95be-4a9e-896f-c6b7fcb3791a" />
+
+
+## Prerequisites
+ 
+- [MySQL 8.0+](https://www.mysql.com/) with `local_infile` enabled
+- [Python 3.8+](https://www.python.org/)
+-  [Visual Studio Code](https://code.visualstudio.com/docs/setup/windows)
+```bash
+pip install sqlalchemy mysql-connector-python requests
+```
+ 
+| Package | Docs |
+|---|---|
+| `sqlalchemy` | [sqlalchemy.org](https://www.sqlalchemy.org/) |
+| `mysql-connector-python` | [dev.mysql.com/doc/connector-python](https://dev.mysql.com/doc/connector-python/en/) |
+| `requests` | [requests.readthedocs.io](https://requests.readthedocs.io/en/latest/) |
+ 
