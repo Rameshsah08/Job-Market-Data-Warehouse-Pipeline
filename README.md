@@ -48,7 +48,5 @@ Google Cloud Storage (public bucket)
   └── company_mart
 ```
 
-![Data Architecture](<img width="947" height="656" alt="data_archicture" src="https://github.com/user-attachments/assets/ff424160-1c0a-4e6e-8b7a-ab2f3e87a61b" />
-)
- 
+![Data Architecture](https://github.com/user-attachments/assets/ff424160-1c0a-4e6e-8b7a-ab2f3e87a61b)
 
