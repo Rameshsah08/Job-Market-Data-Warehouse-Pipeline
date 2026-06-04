@@ -2,7 +2,8 @@
  
 This document covers all four analytical data marts — what each one does, how it is structured, and how the marts relate to each other and to the Data Warehouse.
 
-<img width="431" height="600" alt="warehouse_marts" src="YOUR_GITHUB_IMAGE_URL_HERE" />
+<img width="437" height="550" alt="warehouse_marts" src="https://github.com/user-attachments/assets/84c99886-6b74-45d0-a746-2d4fab482a82" />
+
 
 ## Overview
  
@@ -32,7 +33,8 @@ All marts pull from the same `data_warehouse` source — so running the warehous
 ---
 
 ## Mart 1 — Flat Mart (`flat_mart`)
-<img width="250" height="400" alt="Flat_mart" src="YOUR_GITHUB_IMAGE_URL_HERE" />
+<img width="220" height="439" alt="Flat_mart" src="https://github.com/user-attachments/assets/4c94e2ff-97af-46fc-87ca-b17e03fa692a" />
+
 
 ### What It Does
  
@@ -85,7 +87,8 @@ JSON_ARRAYAGG(
  
 
 ## Mart 2 — Skill Mart (`skill_mart`)
-<img width="667" height="380" alt="skills_mart" src="YOUR_GITHUB_IMAGE_URL_HERE" />
+<img width="666" height="458" alt="skills_mart" src="https://github.com/user-attachments/assets/e7ef3d2d-eee4-48d7-b939-c2183b1517d0" />
+
 
 ### What It Does
  
@@ -152,7 +155,8 @@ Then aggregated with `COUNT(*)` and `SUM()` per skill × month × job category.
 
 ## Mart 3 — Priority Mart (`priority_mart`)
  
-<img width="600" height="330" alt="priority_mart" src="YOUR_GITHUB_IMAGE_URL_HERE" />
+<img width="589" height="430" alt="priority_mart" src="https://github.com/user-attachments/assets/e5f14a81-7cd0-49cb-b032-f437aa767ec3" />
+
  
 ### What It Does
  
@@ -216,7 +220,8 @@ VALUES (4, 'Data Scientist', 4);
  
 ## Mart 4 — Company Mart (`company_mart`)
  
-![Company Mart Schema](Diagram_draw_oi/company_mart.png)
+<img width="755" height="651" alt="company_mart" src="https://github.com/user-attachments/assets/47d385d9-1801-4278-9645-77695c6c8e42" />
+
  
 ### What It Does
  
