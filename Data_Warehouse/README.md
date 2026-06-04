@@ -2,7 +2,7 @@
  
 This document covers everything about the Data Warehouse layer — how the source data is downloaded from Google Cloud Storage, loaded into MySQL using Python, and how the warehouse tables are structured.
  
-← [Back to Main README](README.md)
+← [Back to Main README](https://github.com/Rameshsah08/job-Market-Data-Warehouse-Analytical-Marts/blob/main/README.md)
  
 ---
 ![Data Architecture](https://github.com/user-attachments/assets/ff424160-1c0a-4e6e-8b7a-ab2f3e87a61b)
@@ -85,7 +85,7 @@ Resolves the many-to-many relationship between job postings and skills. One job 
  
 ## Schema Diagram
  
-<img width="641" height="475" alt="Tables and relation" src="https://github.com/user-attachments/assets/312fd24f-95be-4a9e-896f-c6b7fcb3791a" />
+<img width="641" height="475" alt="Tables and relation" src="https://github.com/user-attachments/assets/36f17810-6f09-4708-8d5e-86abe1278438" />
 
 
 ## Prerequisites
