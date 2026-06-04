@@ -131,12 +131,13 @@ All source data is hosted publicly on **Google Cloud Storage**.
  
 | Tool | Purpose |
 |---|---|
-| **MySQL 8+** | Data warehouse and all mart schemas |
-| **Python 3** | Data download and ETL loading |
-| **SQLAlchemy** | Database connection and query execution |
-| **mysql-connector-python** | MySQL driver |
-| **requests** | Streaming CSV downloads from GCS |
-| **draw.io** | Architecture and schema diagrams |
+| [**MySQL 8+**](https://www.mysql.com/) | Data warehouse and all mart schemas |
+| [**Visual Studio Code**](https://code.visualstudio.com/docs/setup/windows) | Dataset download and load in mysql |
+| [**Python 3**](https://www.python.org/) | Data download and ETL loading |
+| [**SQLAlchemy**](https://www.sqlalchemy.org/) | Database connection and query execution |
+| [**mysql-connector-python**](https://dev.mysql.com/doc/connector-python/en/) | MySQL driver |
+| [**requests**](https://requests.readthedocs.io/en/latest/) | Streaming CSV downloads from GCS |
+| [**draw.io**](https://app.diagrams.net/?src=about#) | Architecture and schema diagrams |
  
 ---
  
