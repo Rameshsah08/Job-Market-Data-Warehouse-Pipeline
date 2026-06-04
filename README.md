@@ -156,9 +156,16 @@ All source data is hosted publicly on **Google Cloud Storage**.
 - ✅ KPI Development for business analytics
 ---
  
-## License
- 
-This project is for portfolio and educational purposes.
+
+## 🌟 About Me
+
+Hi there! I'm Ramesh Sah, a Computer Science student at the University for the Creative Arts, Farnham, passionate about turning raw data into meaningful insights. I'm actively building my portfolio through hands-on projects in SQL, data engineering, and analytics — with the goal of landing a job or internship in the data industry.
+This project is part of my personal portfolio to demonstrate real-world data engineering skills to potential employers.
+Feel free to check out my work and connect with me:
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rameshsah08/SQL_Data_Warehouse_Project)
+[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshk9271746@gmail.com)
 
 
 
