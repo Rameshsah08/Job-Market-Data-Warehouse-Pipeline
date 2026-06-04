@@ -70,11 +70,11 @@ Analytical Marts
  
 | Layer | What It Is | Detail |
 |---|---|---|
-| **Data Warehouse** | Star schema storing all raw job market data | [→ View Data Warehouse README](DATA_WAREHOUSE.md) |
-| **Flat Mart** | Denormalized wide table — jobs, companies, skills in one row | [→ View Data Marts README](DATA_MARTS.md) |
-| **Skill Mart** | Monthly demand metrics for each skill by job category | [→ View Data Marts README](DATA_MARTS.md) |
-| **Priority Mart** | Job postings filtered and ranked by business-defined priority | [→ View Data Marts README](DATA_MARTS.md) |
-| **Company Mart** | Monthly hiring KPIs — salary, remote share, degree trends | [→ View Data Marts README](DATA_MARTS.md) |
+| **Data Warehouse** | Star schema storing all raw job market data | [→ View Data Warehouse README](https://github.com/Rameshsah08/job-Market-Data-Warehouse-Analytical-Marts/blob/main/Data_Warehouse/README.md) |
+| **Flat Mart** | Denormalized wide table — jobs, companies, skills in one row | [→ View Data Marts README](https://github.com/Rameshsah08/job-Market-Data-Warehouse-Analytical-Marts/blob/main/Data_Marts/README.md) |
+| **Skill Mart** | Monthly demand metrics for each skill by job category | [→ View Data Marts README](https://github.com/Rameshsah08/job-Market-Data-Warehouse-Analytical-Marts/blob/main/Data_Marts/README.md) |
+| **Priority Mart** | Job postings filtered and ranked by business-defined priority | [→ View Data Marts README](https://github.com/Rameshsah08/job-Market-Data-Warehouse-Analytical-Marts/blob/main/Data_Marts/README.md) |
+| **Company Mart** | Monthly hiring KPIs — salary, remote share, degree trends | [→ View Data Marts README](https://github.com/Rameshsah08/job-Market-Data-Warehouse-Analytical-Marts/blob/main/Data_Marts/README.md) |
  
 ---
  
@@ -93,7 +93,7 @@ All source data is hosted publicly on **Google Cloud Storage**.
 ---
  
 ### 2. 🏛️ Data Warehouse
-→ Full detail in [DATA_WAREHOUSE.md](DATA_WAREHOUSE.md)
+→ Full detail in [DATA_WAREHOUSE.md](https://github.com/Rameshsah08/job-Market-Data-Warehouse-Analytical-Marts/blob/main/Data_Warehouse/README.md)
  
 | File | Description |
 |---|---|
@@ -106,7 +106,7 @@ All source data is hosted publicly on **Google Cloud Storage**.
 ---
  
 ### 3. 📊 Data Marts
-→ Full detail in [DATA_MARTS.md](DATA_MARTS.md)
+→ Full detail in [DATA_MARTS.md](https://github.com/Rameshsah08/job-Market-Data-Warehouse-Analytical-Marts/blob/main/Data_Marts/README.md)
  
 | File | Description |
 |---|---|
