@@ -159,7 +159,6 @@ All source data is hosted publicly on **Google Cloud Storage**.
  
 This project is for portfolio and educational purposes.
 
-![Data Architecture](https://github.com/user-attachments/assets/ff424160-1c0a-4e6e-8b7a-ab2f3e87a61b)
 
 
 
