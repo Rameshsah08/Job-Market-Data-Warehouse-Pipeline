@@ -19,11 +19,7 @@ The pipeline covers everything from raw data ingestion to multi-layered analytic
 ---
 
 
-## 🏗️ Architecture
-
-![Pipeline Architecture](<img width="947" height="656" alt="data_archicture" src="https://github.com/user-attachments/assets/f506b866-78b4-4b86-a80a-36219cdb376e" />
-)
- 
+## 🏗️ Architecture 
 ```
 Google Cloud Storage (public bucket)
           │
@@ -51,5 +47,7 @@ Google Cloud Storage (public bucket)
   ├── priority_mart
   └── company_mart
 ```
+
+![Data Architecture](Diagram_draw_oi/data_archicture.png)
  
 
